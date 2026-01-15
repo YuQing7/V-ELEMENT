@@ -26,6 +26,7 @@
     "npm-run-all2": "^8.0.4",
     "prettier": "3.7.4",
     "typescript": "~5.9.3",
+    "unplugin-vue-macros": "^2.14.5",
     "vite": "beta",
     "vite-plugin-vue-devtools": "^8.0.5",
     "vue-tsc": "^3.2.2"
